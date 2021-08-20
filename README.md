@@ -1,5 +1,8 @@
 # GWLForecaster
 
+#### Edit 20/08/2021
+GWLForecaster.exe cannot be uploaded to GitHub due to file size restrictions
+
 What this README is:
 - It is a general guide to GWLForecaster, the program that performs
 groundwater level forecasting using AquiModAWS.
