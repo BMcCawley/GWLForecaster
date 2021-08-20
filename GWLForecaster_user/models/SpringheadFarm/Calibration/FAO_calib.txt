@@ -1,0 +1,20 @@
+Field Capacity(%)
+0.36 0.46
+
+Wilting Point(%)
+0.3 0.35
+
+Root Depth(mm)
+220 600
+
+Depletion Factor(%)
+0.8 0.93
+
+Baseflow index(%)
+0.35 0.41
+
+Bypass Threshold(mm)
+9999 9999
+
+Bypass Fraction(%)
+0 0

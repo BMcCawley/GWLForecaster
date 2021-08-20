@@ -1,0 +1,26 @@
+Aquifer Length(m)
+1850 1850
+
+Specific Yield
+0.0062 0.007
+
+K3(m/day)
+69 80
+
+K2(m/day)
+5.1 5.9
+
+K1(m/day)
+0.068 0.085
+
+z3(m)
+41 47
+
+z2(m)
+13.4 13.85
+
+z1(m)
+-10 -10
+
+Alpha
+1 1
